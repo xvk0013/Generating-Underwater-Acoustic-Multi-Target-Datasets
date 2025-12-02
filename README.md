@@ -16,6 +16,8 @@
 │   ├── funNorm.m                 # 对信号进行均值归一化处理
 │   ├── funMulti_Eff.m            # 海洋环境多径效应建模函数
 │   ├── funReadTestLb.m           # 读取测试标签文本文件
+```
+
 ##二.数据集结构
 ```
 ├── deepship_5s_32k_combine/  # deepship数据集合成的音频文件夹
@@ -31,6 +33,7 @@
 │   ├── xxx.wav                   # 音频文件
 │   ├── ... 
 ```
+##################################################################
 
 ##I. Project Structure
 ```
@@ -51,7 +54,9 @@
 │   ├── funMulti_Eff.m            # Ocean environment multipath effect modeling function
 │   ├── funReadTestLb.m           # Read test label text file
 ```
+
 ##II. Dataset Structure
+```
 ├── deepship_5s_32k_combine/  # Audio folder synthesized from deepship dataset
 │   ├── xxx.wav                   # Synthesized audio files
 │   ├── ...                       
