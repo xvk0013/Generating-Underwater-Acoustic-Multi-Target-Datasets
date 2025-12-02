@@ -17,6 +17,7 @@
 │   ├── funMulti_Eff.m            # 海洋环境多径效应建模函数
 │   ├── funReadTestLb.m           # 读取测试标签文本文件
 ##二.数据集结构
+```
 ├── deepship_5s_32k_combine/  # deepship数据集合成的音频文件夹
 │   ├── xxx.wav                   # 合成的音频文件
 │   ├── ...                       
@@ -30,8 +31,9 @@
 │   ├── xxx.wav                   # 音频文件
 │   ├── ... 
 ```
-##########################################################################
+
 ##I. Project Structure
+```
 ├── data_gen/                 # Folder related to underwater acoustic channel data generation
 │   ├── main.m                    # Main process for ocean acoustic channel data generation
 │   ├── Pos1Azi1freq100Hz.env     # Environmental parameter file for sound source A
@@ -48,7 +50,7 @@
 │   ├── funNorm.m                 # Normalize signals by mean value
 │   ├── funMulti_Eff.m            # Ocean environment multipath effect modeling function
 │   ├── funReadTestLb.m           # Read test label text file
-
+```
 ##II. Dataset Structure
 ├── deepship_5s_32k_combine/  # Audio folder synthesized from deepship dataset
 │   ├── xxx.wav                   # Synthesized audio files
@@ -62,3 +64,4 @@
 ├── shipsear_5s_16k/          # shipsear dataset audio folder
 │   ├── xxx.wav                   # Audio files
 │   ├── ...
+```
