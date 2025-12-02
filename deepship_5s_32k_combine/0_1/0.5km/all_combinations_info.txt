@@ -1,0 +1,55 @@
+All Combined Audio Information:
+Total combinations generated: 50
+===================================
+Combination 	Output file 	Source A file 	Source A Env 	Source A Dist(km) 	Source A Depth(m) 	Source B file 	Source B Env 	Source B Dist(km) 	Source B Depth(m)
+-----------------------------------
+1	 combined_001.wav	 021.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 023.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+2	 combined_002.wav	 007.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 014.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+3	 combined_003.wav	 024.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 013.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+4	 combined_004.wav	 020.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 024.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+5	 combined_005.wav	 017.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 019.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+6	 combined_006.wav	 018.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 001.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+7	 combined_007.wav	 018.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 008.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+8	 combined_008.wav	 020.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 020.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+9	 combined_009.wav	 018.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 019.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+10	 combined_010.wav	 003.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 013.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+11	 combined_011.wav	 019.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 007.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+12	 combined_012.wav	 014.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 004.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+13	 combined_013.wav	 021.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 007.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+14	 combined_014.wav	 016.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 012.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+15	 combined_015.wav	 023.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 008.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+16	 combined_016.wav	 002.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 002.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+17	 combined_017.wav	 015.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 012.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+18	 combined_018.wav	 008.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 014.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+19	 combined_019.wav	 018.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 019.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+20	 combined_020.wav	 004.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 021.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+21	 combined_021.wav	 003.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 025.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+22	 combined_022.wav	 003.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 010.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+23	 combined_023.wav	 005.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 007.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+24	 combined_024.wav	 014.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 004.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+25	 combined_025.wav	 011.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 002.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+26	 combined_026.wav	 011.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 002.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+27	 combined_027.wav	 009.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 023.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+28	 combined_028.wav	 007.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 011.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+29	 combined_029.wav	 015.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 002.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+30	 combined_030.wav	 002.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 005.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+31	 combined_031.wav	 014.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 008.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+32	 combined_032.wav	 010.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 016.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+33	 combined_033.wav	 013.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 011.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+34	 combined_034.wav	 021.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 020.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+35	 combined_035.wav	 009.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 024.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+36	 combined_036.wav	 006.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 008.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+37	 combined_037.wav	 006.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 005.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+38	 combined_038.wav	 011.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 005.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+39	 combined_039.wav	 007.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 011.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+40	 combined_040.wav	 006.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 003.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+41	 combined_041.wav	 003.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 007.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+42	 combined_042.wav	 013.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 015.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+43	 combined_043.wav	 014.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 006.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+44	 combined_044.wav	 010.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 025.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+45	 combined_045.wav	 003.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 007.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+46	 combined_046.wav	 003.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 017.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+47	 combined_047.wav	 023.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 009.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+48	 combined_048.wav	 013.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 012.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+49	 combined_049.wav	 021.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 015.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
+50	 combined_050.wav	 013.wav	 Pos1Azi1freq100Hz	 1.00	 10.00	 005.wav	 Pos1Azi1freq100Hz_1	 0.50	 10.00
